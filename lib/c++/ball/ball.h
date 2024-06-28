@@ -3,7 +3,7 @@
 #include<timer.h>
 #include<set.h>
 
-class BALL{
+class BALL{}
 private:
         int ball1, ball2, ball3, ball4, ball5, ball6, ball7, ball8, ball9, ball10, ball11, ball12, ball13, ball14, ball15, ball16;
         float x1,x2,x3,x4,x5;
