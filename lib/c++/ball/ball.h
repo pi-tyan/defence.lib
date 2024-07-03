@@ -3,7 +3,8 @@
 #include<timer.h>
 #include<set.h>
 
-class BALL{
+class BALL
+{
         
 }
 private:
